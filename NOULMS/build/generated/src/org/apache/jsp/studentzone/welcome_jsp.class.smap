@@ -1,0 +1,22 @@
+SMAP
+welcome_jsp.java
+JSP
+*S JSP
+*F
++ 0 welcome.jsp
+studentzone/welcome.jsp
++ 1 studentlinkmaster.jsp
+studentzone/studentlinkmaster.jsp
++ 2 studentheadermaster.jsp
+studentzone/studentheadermaster.jsp
++ 3 studentfootermaster.jsp
+studentzone/studentfootermaster.jsp
+*L
+1,7:51
+1#1,8:58
+7#0,6:66
+1#2,101:72
+12#0,13:173
+1#3,50:186
+24#0,8:236
+*E

@@ -1,0 +1,22 @@
+/* all page*/
+ *{
+                font-family: vardana;
+            }
+           .red{
+    background-color: darkred;
+}
+body{
+    background-color:rgba(100,100,100,0.5);
+}
+.title:first-letter{
+    color:red;
+    font-size: 40px;
+}
+
+.center{
+    margin: 0px auto;
+}
+.center input,textarea,table{
+    font-size: 20px;
+    box-shadow: -4px -4px 10px rgba(255, 255, 255, 1),inset 4px 4px 10px rgba(0, 0, 0, 0.5),inset -4px -4px 10px rgba(255, 255, 255,1),4px 4px 10px rgba(0, 0, 0, 0.5);
+}
